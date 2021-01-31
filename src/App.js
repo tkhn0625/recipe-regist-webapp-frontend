@@ -1,11 +1,11 @@
 import './App.css';
-import RecipeRegistApp from "./Component/RecipeRegistApp";
+import RecipeRegisterApp from "./component/RecipeRegisterApp";
 import './bootstrap.css';
 
 function App() {
   return (
     <div className="App">
-      <RecipeRegistApp/>
+      <RecipeRegisterApp/>
     </div>
   );
 }
